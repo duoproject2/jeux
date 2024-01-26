@@ -1,0 +1,67 @@
+body {
+    background-image: url('https://www.argusleader.com/gcdn/-mm-/d314cf1fbdbae45e6f8f86d41a95ea6184b6645f/c=0-81-2118-1278/local/-/media/2016/10/14/SiouxFalls/SiouxFalls/636120275396678958-guns.jpg?width=2118&height=1197&fit=crop&format=pjpg&auto=webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+
+.container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+
+.inputE {
+
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid green;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.inputP {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid green;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+button {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    text-align: center;
+    border: 3px solid green;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+a {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.container {
+    margin: 10px 0;
+}
